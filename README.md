@@ -1,3 +1,4 @@
-# Hello-Word Ver. 2.0
+# Hello-Word Ver. 2.0.1
 Repositorio para prácticar
-VERSION 2.0
+Se anexa un cambio pequeño.
+VERSION 2.0.1
